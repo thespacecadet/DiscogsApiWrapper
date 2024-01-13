@@ -1,0 +1,20 @@
+{
+    "name": "thespacecadet/discogs-api-wrapper",
+    "description": "simple php wrapper for discogs api",
+    "type": "library",
+    "require": {
+        "guzzlehttp/psr7": "^2.6"
+    },
+    "autoload": {
+        "psr-4": {
+            "Thespacecadet\\DiscogsApiWrapper\\": "src/"
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "tal",
+            "email": "talevi100@gmail.com"
+        }
+    ]
+}
