@@ -3,7 +3,8 @@
     "description": "simple php wrapper for discogs api",
     "type": "library",
     "require": {
-        "guzzlehttp/psr7": "^2.6"
+        "guzzlehttp/psr7": "^2.6",
+        "guzzlehttp/guzzle": "^7.0"
     },
     "autoload": {
         "psr-4": {
